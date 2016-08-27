@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Telephone</string>
+    <string name="input_num">请输入电话号码</string>
+    <string name="call_dial">拨打</string>
 </resources>
